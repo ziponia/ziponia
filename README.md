@@ -12,6 +12,7 @@
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
+<!-- https://shields.io/ -->
 ## Tech Stack
 <!-- https://simpleicons.org/ -->
 <p>
@@ -38,4 +39,6 @@
     <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
 </p>
 
+<!-- https://shields.io/category/social -->
 ![follwers](https://img.shields.io/github/followers/ziponia?style=social)
+![user-star](https://img.shields.io/github/stars/ziponia?style=social)
