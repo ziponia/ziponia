@@ -8,7 +8,8 @@
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziponia&langs_count=10)](https://github.com/ziponia)
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziponia&langs_count=10&layout=compact)](https://github.com/ziponia)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
