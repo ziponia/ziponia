@@ -12,6 +12,7 @@
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
+## Tech Stack
 <!-- https://simpleicons.org/ -->
 <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
