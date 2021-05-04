@@ -28,13 +28,13 @@
     <img src="https://img.shields.io/badge/Spring Framework-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
-    <img src="https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+    <img src="https://img.shields.io/badge/vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
