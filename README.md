@@ -43,3 +43,7 @@
 <!-- https://shields.io/category/social -->
 ![follwers](https://img.shields.io/github/followers/ziponia?style=social)
 ![user-star](https://img.shields.io/github/stars/ziponia?style=social)
+
+---
+
+![trophys](https://github-profile-trophy.vercel.app/?username=ziponia&no-bg=false&margin-w=15&margin-h=15)
