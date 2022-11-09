@@ -4,19 +4,25 @@
 
 Nodejs 를 가장좋아하지만, Spring 이 가장 익숙해요.
 
+Python 을 잘하고 싶네요 🧐
+
 ## 관심있는 기술
 
 [Nextjs13](https://beta.nextjs.org/docs/getting-started) 에 대해 관심이 많아요. 어지간한건, Nextjs 로 만들기 때문이에요.
 
-Javascript 도 좋아하지만, 거의 Typescript 로 개발하는 것을 좋아해요. 근데 Create-React-App 은 별로 안좋아해요. 하지만 Vite 는 좋아하죠 🤣
+Javascript 도 좋아하지만, 거의 Typescript 로 개발하는 것을 좋아해요. 
 
-블록체인 기술에 관심이 있어요.
+Create-React-App 은 별로 안좋아해요. 하지만 Vite 는 좋아하죠 🤣
+
+AI 에는 많은 관심은 없지만, 블록체인과 NFT 는 관심이 있어요.
+
+> 블록체인 Transaction 개념이 너무 아름다워요
 
 ## 요즘 고민 하는 것
 
 Clean-Code, Clean-Architecture, Clean-Struacture 에대해 고민이 많아요.
 
-문서없는 코드를 작성 할 수 있도록 하는것이 목표에요
+문서없는 코드를 작성 할 수 있도록 하는것이 목표에요. 어떻게 해야 할까요?
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fziponia&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
