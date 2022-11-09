@@ -1,4 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=kuby's%20github&fontSize=90&animation=scaleIn)
+# 안녕하세요, 커비의 깃허브 저장공간 입니다.
+
+[cocho.io](https://www.cocho.io) 를 운영하고 있구요
+
+Nodejs 를 가장좋아하지만, Spring 이 가장 익숙해요.
+
+## 관심있는 기술
+
+[Nextjs13](https://beta.nextjs.org/docs/getting-started) 에 대해 관심이 많아요. 어지간한건, Nextjs 로 만들기 때문이에요.
+
+Javascript 도 좋아하지만, 거의 Typescript 로 개발하는 것을 좋아해요. 근데 Create-React-App 은 별로 안좋아해요. 하지만 Vite 는 좋아하죠 🤣
+
+블록체인 기술에 관심이 있어요.
+
+## 요즘 고민 하는 것
+
+Clean-Code, Clean-Architecture, Clean-Struacture 에대해 고민이 많아요.
+
+문서없는 코드를 작성 할 수 있도록 하는것이 목표에요
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fziponia&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
