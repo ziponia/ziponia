@@ -45,7 +45,7 @@ Clean-Code, Clean-Architecture, Clean-Struacture 에대해 고민이 많아요.
 ## Top Languages
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziponia&langs_count=10&layout=compact)](https://github.com/ziponia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziponia&langs_count=10&layout=compact&count_private=true)](https://github.com/ziponia)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
